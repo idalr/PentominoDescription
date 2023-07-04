@@ -2,7 +2,7 @@
 
 This repository was part of the CogSys Master's project module (PM2: Project in Machine Learning; Multimodal Dialogue in Human-Robot Interaction), which I took in the Summer Semester 2022 at the University of Potsdam, Germany.
 
-***The repository only contains the sub-tasks I was responsible for, which were to preprocess textual data and build classifiers, which match a textual description to a pentomino piece. The accuracy scores, as a result, of two different types of classifiers (NB and LSTM) are shown.***
+***The repository only contains the sub-tasks I was responsible for, which were to preprocess textual data (TakeCV and Survey) and build classifiers, which match a textual description to a pentomino piece. The accuracy scores, as a result, of two different types of classifiers (NB and LSTM) are shown.***
 
 ## Project description
 
